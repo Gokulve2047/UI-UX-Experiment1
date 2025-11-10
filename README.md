@@ -23,3 +23,4 @@ d. Demonstrate various UI/UX design tools in detail.
 4 Demonstrate Various UI/UX Design Tools in Detail Several tools are available to help designers create and test UI/UX designs. Figma is a cloud-based interface design tool that allows real-time collaboration and prototyping. It’s ideal for team projects. Adobe XD offers powerful features for wireframing, prototyping, and sharing interactive designs, with good integration into the Adobe ecosystem. Sketch is popular among macOS users and known for its vector-based UI design capabilities and plugin support. InVision is mainly used for prototyping and presenting design workflows interactively. Each of these tools plays a role in transforming ideas into user-centered digital products. During hands-on sessions, students can explore their interfaces, design layouts, create wireframes, and test user flows.
 
 ## Result:
+THUS THE EXPERIMENT IS SUCCESSFULLY DONE
